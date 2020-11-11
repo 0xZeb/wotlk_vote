@@ -1,0 +1,18 @@
+{
+  "name": "vote_script",
+  "version": "1.0.0",
+  "description": "WOTLKRaids vote automagically",
+  "main": "vote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.2",
+    "node": "^15.0.1",
+    "puppeteer-core": "^5.4.1",
+    "utf-8-validate": "^5.0.3"
+  },
+  "devDependencies": {}
+}
